@@ -1,0 +1,133 @@
+{
+  "uuid": "ef5a031a-3952-48ce-9aa3-28895e83316f",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "550c2412-a867-4326-93b3-2112d6b50a9d",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 24,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 33,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 32,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "electric": 3,
+      "normal": 6,
+      "bug": 3,
+      "flying": 5,
+      "ice": 1,
+      "ground": 2,
+      "steel": 3,
+      "fire": 1,
+      "ghost": 1,
+      "poison": 3,
+      "rock": 4,
+      "fairy": 1,
+      "grass": 1,
+      "psychic": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:zigzagoon": 2,
+      "cobblemon:starly": 1,
+      "cobblemon:rookidee": 1,
+      "cobblemon:hoppip": 1,
+      "cobblemon:lechonk": 2,
+      "cobblemon:klink": 1,
+      "cobblemon:toxel": 1,
+      "cobblemon:drilbur": 1,
+      "cobblemon:diglett": 1,
+      "cobblemon:whismur": 1,
+      "cobblemon:bunnelby": 1,
+      "cobblemon:tauros": 2,
+      "cobblemon:taillow": 1,
+      "cobblemon:linoone": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:psyduck": [
+        "male"
+      ],
+      "cobblemon:mareep": [
+        "male"
+      ],
+      "cobblemon:bunnelby": [
+        "male"
+      ],
+      "cobblemon:ledyba": [
+        "male"
+      ],
+      "cobblemon:cryogonal": [
+        "genderless"
+      ],
+      "cobblemon:excadrill": [
+        "female"
+      ],
+      "cobblemon:tandemaus": [
+        "genderless",
+        "maushold-family-four"
+      ],
+      "cobblemon:butterfree": [
+        "male"
+      ],
+      "cobblemon:slugma": [
+        "female"
+      ],
+      "cobblemon:gastly": [
+        "female"
+      ],
+      "cobblemon:carbink": [
+        "genderless"
+      ],
+      "cobblemon:magnemite": [
+        "genderless"
+      ],
+      "cobblemon:roggenrola": [
+        "female"
+      ],
+      "cobblemon:aron": [
+        "male"
+      ],
+      "cobblemon:zubat": [
+        "male",
+        "female"
+      ],
+      "cobblemon:geodude": [
+        "female"
+      ],
+      "cobblemon:manectric": [
+        "male",
+        "base"
+      ],
+      "cobblemon:miltank": [
+        "female",
+        "mooshtank-false"
+      ],
+      "cobblemon:hoppip": [
+        "male"
+      ],
+      "cobblemon:dottler": [
+        "female"
+      ],
+      "cobblemon:lickitung": [
+        "female"
+      ],
+      "cobblemon:grovyle": [
+        "male"
+      ],
+      "cobblemon:raticate": [
+        "male"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ]
+    }
+  }
+}

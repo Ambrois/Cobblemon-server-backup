@@ -1,0 +1,66 @@
+{
+  "uuid": "b4a13ec8-b655-4f62-9c12-788847cf8266",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "ed6e576c-8cf4-4084-a2b8-fd9490ce1628",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 8,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 17,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 17,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 3,
+      "water": 1,
+      "electric": 1,
+      "bug": 2,
+      "fire": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:sentret": 2,
+      "cobblemon:chewtle": 1,
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:bunnelby": 1,
+      "cobblemon:ducklett": 1,
+      "cobblemon:mareep": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:pawmi": 1,
+      "cobblemon:geodude": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:bidoof": [
+        "male"
+      ],
+      "cobblemon:yungoos": [
+        "female"
+      ],
+      "cobblemon:psyduck": [
+        "male"
+      ],
+      "cobblemon:mareep": [
+        "male"
+      ],
+      "cobblemon:sentret": [
+        "female"
+      ],
+      "cobblemon:shelmet": [
+        "male"
+      ],
+      "cobblemon:ponyta": [
+        "female"
+      ],
+      "cobblemon:blipbug": [
+        "male"
+      ]
+    }
+  }
+}

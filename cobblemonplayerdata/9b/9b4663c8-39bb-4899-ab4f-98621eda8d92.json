@@ -1,0 +1,67 @@
+{
+  "uuid": "9b4663c8-39bb-4899-ab4f-98621eda8d92",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "099e328e-c0f8-4fe8-89dd-719f6cfeda3b",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 6,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 27,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 27,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "fire": 1,
+      "bug": 1,
+      "fighting": 1,
+      "psychic": 2,
+      "normal": 1,
+      "rock": 1,
+      "poison": 1,
+      "grass": 1,
+      "steel": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:rattata": 1,
+      "cobblemon:hoppip": 6,
+      "cobblemon:ledyba": 2,
+      "cobblemon:paras": 1,
+      "cobblemon:unown": 11
+    },
+    "aspectsCollected": {
+      "cobblemon:charcadet": [
+        "female"
+      ],
+      "cobblemon:armarouge": [
+        "female"
+      ],
+      "cobblemon:crocalor": [
+        "male"
+      ],
+      "cobblemon:buzzwole": [
+        "genderless"
+      ],
+      "cobblemon:unown": [
+        "genderless",
+        "character-p"
+      ],
+      "cobblemon:indeedee": [
+        "male"
+      ],
+      "cobblemon:nihilego": [
+        "genderless"
+      ],
+      "cobblemon:kartana": [
+        "genderless"
+      ]
+    }
+  }
+}

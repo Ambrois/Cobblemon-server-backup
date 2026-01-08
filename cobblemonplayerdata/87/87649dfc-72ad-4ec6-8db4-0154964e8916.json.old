@@ -1,0 +1,95 @@
+{
+  "uuid": "87649dfc-72ad-4ec6-8db4-0154964e8916",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "41dee716-e9c0-4c56-9d82-7bb109b365a3",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 10,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 46,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 45,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 4,
+      "electric": 1,
+      "flying": 1,
+      "rock": 1,
+      "ground": 1,
+      "fighting": 1,
+      "water": 2,
+      "grass": 1,
+      "poison": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:hoppip": 6,
+      "cobblemon:pidgey": 2,
+      "cobblemon:zigzagoon": 5,
+      "cobblemon:ledyba": 3,
+      "cobblemon:bunnelby": 2,
+      "cobblemon:sentret": 2,
+      "cobblemon:chewtle": 1,
+      "cobblemon:wooloo": 5,
+      "cobblemon:mareep": 2,
+      "cobblemon:combee": 1,
+      "cobblemon:lechonk": 3,
+      "cobblemon:pidgeotto": 1,
+      "cobblemon:rattata": 1,
+      "cobblemon:tadbulb": 1,
+      "cobblemon:watchog": 1,
+      "cobblemon:solosis": 1,
+      "cobblemon:thievul": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:wooloo": [
+        "female",
+        "color-none"
+      ],
+      "cobblemon:mareep": [
+        "female"
+      ],
+      "cobblemon:pidgey": [
+        "female"
+      ],
+      "cobblemon:pidgeotto": [
+        "female"
+      ],
+      "cobblemon:geodude": [
+        "male"
+      ],
+      "cobblemon:makuhita": [
+        "male"
+      ],
+      "cobblemon:psyduck": [
+        "female"
+      ],
+      "cobblemon:sentret": [
+        "female"
+      ],
+      "cobblemon:lechonk": [
+        "female"
+      ],
+      "cobblemon:magikarp": [
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:oddish": [
+        "female"
+      ],
+      "cobblemon:gyarados": [
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ]
+    }
+  }
+}
